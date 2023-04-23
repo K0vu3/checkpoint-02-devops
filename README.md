@@ -148,7 +148,7 @@ cfbed175c549   projeto-final-ckp2_api        "python app.py"          3 minutes 
 
 Depois que o aplicativo iniciar, navegue até `http://localhost:3000` em seu navegador da web.
 
-![Aplicação](./output.png)
+![Aplicação](./img.png)
 
 
 O contêiner de serviço de back-end(api) tem a porta 8000 mapeada para o host.
