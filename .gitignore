@@ -52,3 +52,4 @@ pip-log.txt
 
 # Dependency directories
 node_modules/
+postgres/data/*
