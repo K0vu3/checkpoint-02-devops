@@ -1,5 +1,7 @@
 ## Docker Compose Aplicação Web
 
+## Video: [demo da aplicação](https://www.youtube.com/watch?v=syIm2RjEPT4)
+
 ### Aplicação React com um Back-end Python (Flask) e um banco de dados PostgreSql
 
 Estrutura do projeto:
